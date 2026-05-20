@@ -1,0 +1,11 @@
+{
+  "thresholds": {
+    "expiring_soon_days": 4,
+    "stockout_risk_doc": 5,
+    "high_stock_doc": 30
+  },
+  "formulas": {
+    "markdown": "simple",
+    "markdown_elasticity": 1.0
+  }
+}

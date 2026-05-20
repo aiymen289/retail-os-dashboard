@@ -1,0 +1,23 @@
+Folder PATH listing for volume Local Disk
+Volume serial number is 0000008D 6472:46C1
+C:.
+¦   config.py
+¦   engine.py
+¦   formulas.py
+¦   main.py
+¦   models.py
+¦   project-structure.txt
+¦   README.md
+¦   requirements.txt
+¦   __init__.py
+¦   
++---data
+¦       config.json
+¦       mock_data.json
+¦       
++---__pycache__
+        config.cpython-314.pyc
+        engine.cpython-314.pyc
+        formulas.cpython-314.pyc
+        models.cpython-314.pyc
+        
